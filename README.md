@@ -2,7 +2,6 @@
 
 ## I'm a Software Developer!
 
-- 🔭 Currently working on a [Movie project][ahoi]
 - 🌱 Make life easier and safer with tools
 - 🕹 Getting into game development
 
